@@ -1,1 +1,1 @@
-Exercícios da disciplina Tópicos Especiais em Tecnologia da Informação da Universidade FUMEC.
+Exercícios da disciplina **Tópicos Especiais em Tecnologia da Informação** do Curso de *Sistemas de Informação* da Universidade FUMEC.
